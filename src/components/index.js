@@ -1,0 +1,5 @@
+export {default as Article1} from './article/Article1'
+export {default as  Brand} from './brand/Brand'
+export {default as  Cta} from './cta/CTA'
+export {default as  Feature} from './features/Features'
+export {default as  Navbar} from './navbar/Navbar'
